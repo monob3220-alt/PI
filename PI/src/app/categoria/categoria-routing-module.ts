@@ -11,7 +11,7 @@ const routes: Routes = [
   },
 
     {
-     path :'cadastro', 
+     path :'listagem', 
     component: Listagem
   }
 
