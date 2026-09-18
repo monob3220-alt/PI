@@ -50,7 +50,6 @@ import { Ex14Conversao } from './exercicios_2/ex14-conversao/ex14-conversao';
     Ex12Cadastro,
     Ex13Tarefas,
     Ex14Conversao,
-    DesafioFinal,
   ],
   imports: [
     BrowserModule,
